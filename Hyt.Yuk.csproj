@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Utility.Cmd">
+      <HintPath>..\Utility.Yuk\Utility.Cmd\bin\Debug\netstandard2.0\Utility.Cmd.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
